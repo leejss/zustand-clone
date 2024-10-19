@@ -1,1 +1,1 @@
-# Implement store manageent library like zustand
+# Implement store management library like zustand
